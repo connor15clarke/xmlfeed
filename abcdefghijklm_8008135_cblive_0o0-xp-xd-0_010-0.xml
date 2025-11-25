@@ -22644,29 +22644,6 @@
     <CompanyEmail />
     <CompanyName>Roaring Fork School District</CompanyName>
   </Job>
-  <Job id="e68cedda-a71f-4337-84c1-d5d5d63c40d4" state="Colorado" district="Roaring Fork School District" districtId="Roaring Fork School District" active="true" lastSeen="2025-10-30T00:14:20+00:00">
-    <JobTitle>Licensed CLDE Teacher and Coach</JobTitle>
-    <JobDescription />
-    <JobType />
-    <Location>Bridges High School</Location>
-    <City>Glenwood Springs</City>
-    <State>Colorado</State>
-    <Country />
-    <ZipCode />
-    <Experience />
-    <SalaryRange />
-    <Benefits />
-    <PostingDate>2025-06-05</PostingDate>
-    <ClosingDate />
-    <JobUrl>https://www.applitrack.com/rfsd/onlineapp/default.aspx?AppliTrackPostingSearch=coach</JobUrl>
-    <ApplyUrl>https://www.applitrack.com/rfsd/onlineapp/jobpostings/view.asp?AppliTrackJobId=3164&amp;category=Athletics%2fActivities</ApplyUrl>
-    <CoachSearchUrl>https://www.applitrack.com/rfsd/onlineapp/default.aspx?AppliTrackPostingSearch=coach</CoachSearchUrl>
-    <EmployerEmail />
-    <EmployerFullName>Bridges High School</EmployerFullName>
-    <CompanyDescription>Roaring Fork School District coaching jobs</CompanyDescription>
-    <CompanyEmail />
-    <CompanyName>Roaring Fork School District</CompanyName>
-  </Job>
   <Job id="d0db1f30-9cdb-47e0-a850-6201d246c8bf" state="Colorado" district="Roaring Fork School District" districtId="Roaring Fork School District" active="true" lastSeen="2025-10-30T00:15:17+00:00">
     <JobTitle>Head Coach Girls Softball</JobTitle>
     <JobDescription />
